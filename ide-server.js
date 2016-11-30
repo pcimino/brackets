@@ -7,6 +7,7 @@
 // Next take this file and copy it to your project/server.js
 // Modify the MY_PROJECT_DIR variable at the top to match your directory
 // be sure to create a subdirectory in your project named 'brackets', this is where preferences and bracket extensions get stored
+//     mkdir brackets
 //     npm start
 // Navigate to the URL
 //     http://localhost:9092/brackets/
